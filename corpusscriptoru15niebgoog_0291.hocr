@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptoru15niebgoog_0291.png"; bbox 0 0 2806 4718; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 268 347 1025 436">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 268 347 1025 436">
+     <span class='ocr_line' id='line_1_1' title="bbox 268 347 1025 436; baseline -0.02 -1"><span class='ocrx_word' id='word_1_1' title='bbox 268 359 344 436; x_wconf 79' lang='lat'><strong>26⁸</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 609 353 796 430; x_wconf 84' lang='lat' dir='ltr'><strong>GEORGII</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 814 347 1025 428; x_wconf 83' lang='lat' dir='ltr'>SYNCELLI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 388 507 1263 650">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 388 507 1263 650">
+     <span class='ocr_line' id='line_1_2' title="bbox 388 507 1188 576; baseline -0.008 0"><span class='ocrx_word' id='word_1_4' title='bbox 388 522 576 576; x_wconf 61' lang='lat' dir='ltr'><strong>anui-mac</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 628 522 784 572; x_wconf 65' lang='lat' dir='ltr'><strong>mmm</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 912 511 1084 574; x_wconf 63' lang='lat' dir='ltr'><strong>mum</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1097 507 1188 570; x_wconf 68' lang='lat'><strong>¹2:0¹·</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 430 592 1263 650; baseline 0.006 -14"><span class='ocrx_word' id='word_1_8' title='bbox 430 593 534 644; x_wconf 68' lang='lat' dir='ltr'><strong><em>mdiu.</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 666 592 755 650; x_wconf 65' lang='lat' dir='ltr'><em>Bega.</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1058 592 1263 646; x_wconf 66' lang='lat' dir='ltr'><strong>mmuh·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1098 665 1225 714">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1098 665 1225 714">
+     <span class='ocr_line' id='line_1_4' title="bbox 1098 665 1225 714; baseline -0.031 0"><span class='ocrx_word' id='word_1_11' title='bbox 1098 665 1225 714; x_wconf 60' lang='lat' dir='ltr'><strong>torculum</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1408 4718">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1408 4718">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1408 4718; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1408 4718; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
